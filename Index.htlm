@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rutina de ejercicios</title>
+</head>
+<body>
+  <h1>Rutina de ejercicios</h1>
+  <ul id="ejercicios">
+    <li>
+      <input type="checkbox" name="ejercicio" value="abdominales"> Abdominales (16 repeticiones, 3 series)
+    </li>
+    <li>
+      <input type="checkbox" name="ejercicio" value="jalones"> Jalones (10 repeticiones, 2 series)
+    </li>
+    <li>
+      <input type="checkbox" name="ejercicio" value="peso muerto"> Peso muerto (12 repeticiones, 3 series)
+    </li>
+  </ul>
+</body>
+</html>
